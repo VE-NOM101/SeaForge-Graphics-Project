@@ -3,9 +3,13 @@
 ## 📌 Overview
 **SeaForge** is a real-time 3D harbor simulation that integrates physics-based interactions, dynamic environments, and interactive controls.  
 It focuses on realistic water behavior, ship dynamics, and visually rich rendering using modern graphics techniques.
-
+<p align="center">
+  <img src="pic1.png" alt="Description" width="600"/>
+</p>
+<p align="center">
+  <img src="pic2.png" alt="Description" width="600"/>
+</p>
 ---
-
 ## 🎯 Objectives
 - Develop a real-time 3D port simulation  
 - Implement realistic wave dynamics and vessel–water interaction  
@@ -32,9 +36,6 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Multiple waves combined for realism  
 - Normals approximated for proper lighting  
 
-📷 *Add Image Here*  
-📷 *Add Image Here*
-
 ---
 
 ## 🚢 Ship Motion & Physics
@@ -43,8 +44,6 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Turning with realistic pivot  
 - Buoyancy using Archimedes’ principle  
 
-📷 *Add Image Here*  
-📷 *Add Image Here*
 
 ---
 
@@ -68,7 +67,7 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 
 ---
 
-## 🛳️ Path Movement (Spline आधारित)
+## 🛳️ Path Movement
 - Ship follows cubic B-spline curve  
 - Smooth and continuous path  
 - Control points define trajectory  
@@ -90,8 +89,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Applied on buildings, ships, roads, environment  
 - Blending between material color and texture  
 
-📷 *Add Image Here*  
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic25.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -100,7 +100,14 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Fractal trees  
 - Ships using Bezier & lofted surfaces  
 
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic7.png" width="45%" />
+  <img src="pic26.png" width="35%" />
+</p>
+
+<p align="center">
+  <img src="pic24.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -110,8 +117,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Spot Light  
 - Ambient, Diffuse, Specular components  
 
-📷 *Add Image Here*  
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic10.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -127,8 +135,6 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Isometric View  
 - Top View  
 - Front View  
-
-📷 *Add Image Here*
 
 ---
 
