@@ -53,7 +53,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Uneven load causes tilt or capsize  
 - Overload can sink the ship  
 
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic23.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -63,7 +65,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - One oar → turning, both → straight motion  
 - Natural slowdown due to water resistance  
 
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic3.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -72,7 +76,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Smooth and continuous path  
 - Control points define trajectory  
 
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic17.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -81,7 +87,9 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Rope modeled using Catmull-Rom spline  
 - Natural swinging motion  
 
-📷 *Add Image Here*
+<p align="center">
+  <img src="pic23.png" alt="Description" width="600"/>
+</p>
 
 ---
 
@@ -127,7 +135,6 @@ It focuses on realistic water behavior, ship dynamics, and visually rich renderi
 - Phong Shading  
 - Gouraud Shading  
 
-📷 *Add Image Here*
 
 ---
 
